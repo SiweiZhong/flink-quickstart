@@ -69,6 +69,7 @@ public class BatchJob {
          * http://flink.apache.org/docs/latest/apis/batch/examples.html
          *
          */
+        System.out.println("zhngsw");
 
         // execute program
         env.execute("Flink Batch Java API Skeleton");
